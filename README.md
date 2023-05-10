@@ -1,3 +1,4 @@
 # HandOfMidas
 
-ddsadsa
+
+Practical project
